@@ -2,7 +2,7 @@ body {
     position: relative;
 }
 
-.container_principal {
+.container_principal, .card_rede_social {
     background-color: #F8F3F3;
 }
 
@@ -38,16 +38,14 @@ body {
 
 .container_rede_social {
     background-color: #2bbd66;
+    color: #ffffff;
 }
 
-.card_rede_social {
-    background-color: #ffffff;
+.card_rede_social :hover {
+    text-decoration: none;
+    color: #2bbd66;
 }
 
 .rede_social {
     max-height: 80px;
-}
-
-.titulo_redes_sociais {
-    color: #ffffff;
 }
