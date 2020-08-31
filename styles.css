@@ -1,0 +1,53 @@
+body {
+    position: relative;
+}
+
+.container_principal {
+    background-color: #F8F3F3;
+}
+
+.imagem_principal {
+    object-fit: scale-down;
+}
+
+.cor_fantasia {
+    color: #2bbd66;
+}
+
+.fonte_texto {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fonte_nome_aplicacao {
+    font-family: 'Bungee Shade', cursive;
+}
+
+.botao {
+    background-color: #2bbd66 !important;
+    border: none;
+}
+
+.container_responsividade {
+    max-height: 550px;
+}
+
+.container_responsividade img {
+    max-height: 300px;
+    object-fit: cover;
+}
+
+.container_rede_social {
+    background-color: #2bbd66;
+}
+
+.card_rede_social {
+    background-color: #ffffff;
+}
+
+.rede_social {
+    max-height: 80px;
+}
+
+.titulo_redes_sociais {
+    color: #ffffff;
+}
